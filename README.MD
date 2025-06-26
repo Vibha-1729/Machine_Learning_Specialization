@@ -1,22 +1,15 @@
-# COURSE 1
-Supervised Machine Learning: Regression and Classification<br>
-In the first course of the Machine Learning Specialization, I learned to:<br>
+## Machine Learning Specialization — Course Highlights
 
-Build machine learning models in Python using popular machine learning libraries NumPy and scikit-learn.<br>
-Build and train supervised machine learning models for prediction and binary classification tasks, including linear regression and logistic regression.<br>
+### Course 1 · Supervised Machine Learning: Regression & Classification
+- Built end-to-end predictive models in Python with **NumPy** and **scikit-learn**  
+- Implemented and evaluated **linear regression** for continuous targets and **logistic regression** for binary-classification tasks
 
-# COURSE 2
-Advanced Learning Algorithms<br>
-In the second course of the Machine Learning Specialization, I learned to:<br>
+### Course 2 · Advanced Learning Algorithms
+- Designed and trained multi-class **neural networks** using **TensorFlow**
+- Followed industry best practices—data partitioning, regularization, and systematic error analysis—to ensure real-world generalization
+- Developed tree-based learners: **decision trees**, **random forests**, and **gradient-boosted trees**
 
-Build and train a neural network with TensorFlow to perform multi-class classification<br>
-Apply best practices for machine learning development so that your models generalize to data and tasks in the real world<br>
-Build and use decision trees and tree ensemble methods, including random forests and boosted trees<br>
-
-# COURSE 3
-Unsupervised Learning, Recommenders, Reinforcement Learning<br>
-In the third course of the Machine Learning Specialization, I learned to:<br>
-
-Use unsupervised learning techniques for unsupervised learning: including clustering and anomaly detection.<br>
-Build recommender systems with a collaborative filtering approach and a content-based deep learning method.<br>
-Build a deep reinforcement learning model.
+### Course 3 · Unsupervised Learning, Recommenders & Reinforcement Learning
+- Applied unsupervised techniques—**clustering** and **anomaly detection**—to uncover hidden structure in unlabeled data
+- Built recommendation engines via **collaborative filtering** and deep **content-based** methods
+- Implemented a deep **reinforcement-learning** agent that learns optimal policies through interaction
